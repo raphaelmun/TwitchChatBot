@@ -25,7 +25,7 @@ Build & Run:
     
 Can I Just Download It?
 
-	Here you go: https://github.com/raphaelmun/TwitchChatBot/releases/download/1.0/TwitchChatBot.zip
+Here you go: https://github.com/raphaelmun/TwitchChatBot/releases/download/1.0/TwitchChatBot.zip
 
 License
 =======
