@@ -8,11 +8,16 @@ I originally created this back when I was playing League of Legends and streamin
 
 Configuration:
 
-	Edit the twitch.config file with your bot's Twitch.tv account username and the channel you want it to join. To generate the password, visit http://www.twitchapps.com/tmi/ and connect using your bot's account. The password should look something like "oauth:123987598712".
+	Edit the twitch.config file with your bot's Twitch.tv account username
+    and the channel you want it to join. To generate the password,
+    visit http://www.twitchapps.com/tmi/ and connect using your bot's account.
+    The password should look something like "oauth:123987598712".
 
 Adding Commands:
 
-	To add a custom command, edit the <commands> section in the twitch.config file with your command. For example, if you want to add a "!test" command, add the line <test>This is a test!</test>.
+	To add a custom command, edit the <commands> section in the twitch.config file
+    with your command. For example, if you want to add a "!test" command,
+    add the line <test>This is a test!</test>.
     
 Build & Run:
 
