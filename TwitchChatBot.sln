@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thresher", "Thresher\Thresher.csproj", "{DD6EE4DE-DDFC-4A3E-B06F-A6109974D7F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitchChatBot", "TwitchChatBot\TwitchChatBot.csproj", "{5EEF3FB7-8A62-493A-92D3-3DE6E5D1B9E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD6EE4DE-DDFC-4A3E-B06F-A6109974D7F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6EE4DE-DDFC-4A3E-B06F-A6109974D7F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6EE4DE-DDFC-4A3E-B06F-A6109974D7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6EE4DE-DDFC-4A3E-B06F-A6109974D7F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EEF3FB7-8A62-493A-92D3-3DE6E5D1B9E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEF3FB7-8A62-493A-92D3-3DE6E5D1B9E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEF3FB7-8A62-493A-92D3-3DE6E5D1B9E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEF3FB7-8A62-493A-92D3-3DE6E5D1B9E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
